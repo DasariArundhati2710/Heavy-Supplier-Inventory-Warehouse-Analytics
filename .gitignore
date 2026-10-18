@@ -1,0 +1,9 @@
+data/raw/
+data/cleaned/
+data/notebooks/
+*.csv
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
